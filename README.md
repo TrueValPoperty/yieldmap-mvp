@@ -1,7 +1,4 @@
-# yieldmap-mvp
+# Backend (Flask)
 
-Fullstack MVP project for YieldMap.
-
-- React (Vite + Tailwind CSS) Frontend
-- Flask Backend (API-ready)
+Basic Flask API backend with CORS enabled.
 
